@@ -1,4 +1,4 @@
-# Projeto Times UFC
+# Cadastro de Times UFC
 
 Bem-vindo ao Projeto Times UFC! Este projeto em Java simula a gestão de lutadores de um campeonato de UFC. Você pode criar lutadores, definir suas características e exibir suas informações e status.
 
