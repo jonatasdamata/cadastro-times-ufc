@@ -10,7 +10,13 @@ public class TimesUFC {
         lutador[4] = new Lutador("UFOCobol", "Brasil", 37, 1.70f, 119.3f, 5, 4, 3);
         lutador[5] = new Lutador("Lee WongKi", "China", 30, 1.81f, 105.7f, 12, 2, 4);
         
-        lutador[5].status();
+        Luta UFC01 = new Luta();
+        UFC01.marcarLuta(lutador[4], lutador[5]);
+        UFC01.lutar();
+        /*lutador[0].status();
+        lutador[1].status();
+        */
+        
     }
     
 }
